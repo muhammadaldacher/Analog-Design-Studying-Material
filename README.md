@@ -8,5 +8,10 @@ Here, I will try to organize all the Analog &amp; Mixed-Signal material I studie
 6. RF receiver system
 7. IO/SERDES system
 ---
-1. Layout
-2. EM/IR
+1. Cadence Tool
+2. Layout
+3. EM/IR
+</br>
+* Razavi References</br>
+* Razavi Articles</br>
+</br>
